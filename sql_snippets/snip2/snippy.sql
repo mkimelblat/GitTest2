@@ -1,0 +1,1 @@
+select snips from snippy
